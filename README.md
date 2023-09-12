@@ -9,7 +9,7 @@
 
 ## 주요기능 및 전체 시스템 구성도
 
-<img src = "[Your Image Addr](https://github.com/buglossJisoo/IoT_Smart_Pill/assets/70942492/3de68f68-e682-423c-9699-9a4956a6fb0d)https://github.com/buglossJisoo/IoT_Smart_Pill/assets/70942492/3de68f68-e682-423c-9699-9a4956a6fb0d">
+<img src = "https://github.com/buglossJisoo/IoT_Smart_Pill/assets/70942492/3de68f68-e682-423c-9699-9a4956a6fb0d">
 
 1. 사용자 등록 기능
 애플리케이션을 통해 사용자가 직접 나이, 성별, 키, 몸무게, 복용중인 약, 자신의 사진을 등록
@@ -34,4 +34,4 @@
 
 ## 개발 시 사용한 주요 기술 및 하드웨어 
 
-<img src = "![image](https://github.com/buglossJisoo/IoT_Smart_Pill/assets/70942492/313dd2f6-16e6-4fd3-88af-2cc4f755dfe5)">
+<img src = "https://github.com/buglossJisoo/IoT_Smart_Pill/assets/70942492/313dd2f6-16e6-4fd3-88af-2cc4f755dfe5">
